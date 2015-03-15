@@ -1,0 +1,2 @@
+Site de estudantes, maioritariamente caloiros, que mostrasse informação relevante aos alunos baseado no seu perfil (curso, origem, gostos).
+Cliente móvel de algumas das funcionalidades do site, como alarmes de aulas, mensagens privadas, etc;
